@@ -22,4 +22,6 @@ y a la vez compartirlo con el grupo que esta trabajando en ese mismo desarrollo 
 sin perder nada.
 
 - ¿Qué es GitHub y qué relación tiene con Git?
+- GitHub es una plataforma con almacenamiento en la nube, que se utiliza para llevar a cabo todo el control de proceso de desarrollo de un software desde el inicio hasta la ejecución del código, se puede trabajar de forma colaborativa con personas de diferentes partes del mundo.
+- Git es una herramienta de control de versiones, registra todo ella historial de cambios que se realizan en un proyecto, cada usuario que participa puede trabajar de forma local con una parte del proyecto sin interferir con el trabajo de los demás no modificar la versión principal.
 
