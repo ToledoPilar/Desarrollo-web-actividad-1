@@ -20,4 +20,5 @@ Se relacionan en el guardado de codigos, en GItHub se puede guardar todo el codi
 y a la vez compartirlo con el grupo que esta trabajando en ese mismo desarrollo y asi facilitar el trabajo en conjunto
 sin perder nada.
 
+- ¿Qué es GitHub y qué relación tiene con Git?
 
