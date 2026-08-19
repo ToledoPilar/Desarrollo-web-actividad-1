@@ -6,6 +6,7 @@ Actividad 1 de Desarrollo Web
 -Un repositorio es un espacio digital centralizado dónde se almacenan y organizan los archivos de un proyecto.
 
 ¿Para qué sirve?
+Sirve para guardar código de programación, documentos académicos o datos de forma segura, permitiendo controlar versiones de un proyecto y compartir el trabajo con otras personas.
 
 ¿Qué tipo de archivos se pueden guardar en él? 
 En un repositorio se puede guardar prácticamente cualquier tipo de archivo digital. 
