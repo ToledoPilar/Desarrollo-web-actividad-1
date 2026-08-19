@@ -15,3 +15,7 @@ Entre los más comunes se encuentran:
 - Archivos multimedia e imágenes (.png - .jpg - .svg) 
 - Archivos de configuración (.json - .yaml) 
 
+- ¿Qué relación tiene un repositorio con un proyecto de desarrollo web?
+
+
+
