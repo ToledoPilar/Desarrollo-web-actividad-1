@@ -16,6 +16,8 @@ Entre los más comunes se encuentran:
 - Archivos de configuración (.json - .yaml) 
 
 - ¿Qué relación tiene un repositorio con un proyecto de desarrollo web?
-
+Se relacionan en el guardado de codigos, en GItHub se puede guardar todo el codigo de desarrollo de un proyecto
+y a la vez compartirlo con el grupo que esta trabajando en ese mismo desarrollo y asi facilitar el trabajo en conjunto
+sin perder nada.
 
 
